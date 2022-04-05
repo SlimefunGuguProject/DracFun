@@ -1,6 +1,6 @@
 # 龙之研究
 DracFun是一个Slimefun4插件，它尽最大努力重现惊人的龙进化  
-它参考了龙之研究Mod ([link](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution))
+它参考了龙之研究Mod ([链接](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution))
 该附属尚处在早期，还有很多地方需要完善，欢迎大家来完善
 
 ## 未来计划:
@@ -15,4 +15,4 @@ DracFun是一个Slimefun4插件，它尽最大努力重现惊人的龙进化
 * [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
 
 ## 下载
-你可以在此下载[releases page](https://github.com/lidanthedev/DracFun/releases).
+你可以在此下载[releases](https://github.com/lidanthedev/DracFun/releases).
